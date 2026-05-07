@@ -4,9 +4,12 @@ My Name is John Du, a second-year CS student at UMD (graduation: Spring 2027), a
 A ESM2CPLUSPLUS is a native C++ implementation of Meta labs' protein language model ESM2. ESM2 is a popular BERT (Bidirection Encoding Representations from Transformers) model. I implemented many of the pytorch ML methods such as softmax, GELU, multi-head self attention, ROPE (rotary positional embeddings), tokenizer, MLP (multi-layer-percepatron, etc). 
 <br>Repository link: https://github.com/JohnDoe149/ESM-CPLUSPLUS 
 
-![](https://github.com/JohnDoe149/ENGL391-PORTFOLIO/tree/main/images/esm2.png)
+![](/images/esm2.png)
+<br> ESM2 architecture showing the pretrained LM (language model) and the protein folding architecture. Paper link: https://www.science.org/doi/10.1126/science.ade2574
 ![](/images/esm2cpluspluscode.png)
+<br> An image of my C++ implementation of multi-head self attention using object-oriented design
 ![](/images/transformer.png)
+<br> An image of transformer architecture from the original "Attention Is All You Need" paper. Paper link: https://arxiv.org/pdf/1706.03762
 
 ## Artifact 2: TIMEINTEGRATEDPHYLOGENETICS
 ## Artifact 3: ROBOTWIN-XARM6_UFACTORY_CONFIGURATION
